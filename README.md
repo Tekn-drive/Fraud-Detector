@@ -1,4 +1,8 @@
 # Fraud-Detector
+ <p align="center">
+  <img src="https://github.com/Tekn-drive/Fraud-Detector/assets/89509753/076ef16a-c2d6-437a-9627-7eb4a0a0badc">
+</p>
+
 This Fraud Detector application is the solution to the problem of false product reviews which are spread online. This app is able to detect and determine whether the review is fraudulent or legit with the help of a machine learning model.
 
 ## UI Overview:
