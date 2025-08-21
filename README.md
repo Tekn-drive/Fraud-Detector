@@ -5,7 +5,7 @@
 
 **Notice: this app might take longer to load due to a machine learning model embedded inside it**
 
-Download the compiled application here (.exe): https://www.mediafire.com/file/i2ml5w9x0ggjde7/Fraud_Detector.zip/file
+Download the compiled application at the releases section of this repository.
 
 This Fraud Detector application is the solution to the problem of false product reviews which are spread online. This app is able to detect and determine whether the review is fraudulent or legit with the help of a machine learning model.
 
